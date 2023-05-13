@@ -1,3 +1,5 @@
+# Digi-tolk-code-refactor
+
 Based on my understanding and adherence to coding practices, I have made the following observations:
 
 The code over all is average, There were a lot of if conditions present in the code which makes the code
