@@ -1,0 +1,8 @@
+Based on my understanding and adherence to coding practices, I have made the following observations:
+
+The code over all is average, There were a lot of if conditions present in the code which makes the code
+a bit messy and hard to read, There were no comments in the code. 
+
+Assignments of variables are used unnecessarily which takes memory, and if the request is return large data, assignments of variables effect on response time.
+
+There is a lot of Code Redundancy which makes the code look ugly and hard to understand. 
